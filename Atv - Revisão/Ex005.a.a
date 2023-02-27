@@ -1,0 +1,14 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 13/02/2023
+// Seção de Declarações
+var
+i : inteiro
+inicio
+PARA i de 100 ate 200 PASSO 1 faca
+   SE (i mod 2 <> 0) ENTAO
+      escreval(i)
+   FIMSE
+FIMPARA
+fimalgoritmo
